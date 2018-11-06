@@ -4,7 +4,7 @@ import 'package:plugins_kotlin/src/app.dart';
 
 void main() {
   runApp(MaterialApp(
-      title: 'Twitter Channel',
+      title: 'Kotlin Channel',
       theme: ThemeData(primarySwatch: Colors.green),
       home: App()));
 }
